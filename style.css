@@ -1,0 +1,40 @@
+.box{
+    width: 450px ;
+    height: 300px ;
+    color: blue;  
+    border:3px solid blue;
+    border-radius:20px 20px 20px 20px ;
+    margin: auto;
+    margin-top: 100px ;
+}
+.box2{
+    color: black;
+    margin-left: 20px ;
+    margin-top: 30px;
+}
+input{
+    border: 2px solid blue;
+    margin-top: 5px ;
+    margin-left: 20px;
+    padding: 5px 240px 5px 5px ;
+    border-radius: 5px 5px 5px 5px ;
+}
+.box3{
+    color: black;
+    margin-left:20px;
+    margin-top: 5px ;
+}
+.hasan{
+    margin-left: 20px ;
+    margin-top: 5px ;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 5px 188px 5px 188px ;
+    border-radius: 5px 5px 5px 5px ;
+    margin-top: 5px ;
+}
+center{
+    margin-top: 10px ;
+}
